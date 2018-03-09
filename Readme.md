@@ -19,6 +19,6 @@ This project works on python 3.6, i invite you to use [virtualenv]("https://virt
 
 To install all the dependencies, use the command
 
-{% highlight %}
+```
 pip install requirements.txt
-{% endhighlight %}
+```
