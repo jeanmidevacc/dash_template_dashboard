@@ -9,10 +9,9 @@ This dash application is composed of two tabulations:
 - Second tabulation, a input panel and a graphic that contains some ramdom value affected by the inputs.
 
 
-<img align="center",src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif" />
-
-
-
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif">
+</p>
 
 # Installation
 
