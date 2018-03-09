@@ -10,7 +10,7 @@ This dash application is composed of two tabulations:
 
 
 <p align="center">
-  <img width="460" height="300" src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif">
+  <img src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif">
 </p>
 
 # Installation
