@@ -8,10 +8,11 @@ This dash application is composed of two tabulations:
 - First tabulation, some random key figures followed by a table fill with random value,
 - Second tabulation, a input panel and a graphic that contains some ramdom value affected by the inputs.
 
-<center>
-<img src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif" />
-<h6><i>Test</i></h6>
-</center>
+
+<img aligne="center",src="https://media.giphy.com/media/7Tr3VaPlEnJqAXugwa/giphy.gif" />
+
+
+
 
 # Installation
 
